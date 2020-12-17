@@ -1,10 +1,14 @@
 # perfumelim
 ![header](https://capsule-render.vercel.app/api?type=wave&color=FFCE04&height=300&section=header&text=Perfume%20Lim&fontSize=80)
-
+<br>
+<br>
+<br>
 
 <p align="center"> 
 안녕하세요, 주니어 프론트엔드 개발자 임향수입니다. 
+<br>
 언제나 배움을 멈추지 않는 성장형 개발자가 목표입니다. 
+<br>
 또한 사용자 친화적인 인터페이스와 읽기 쉬운 간결한 코드를 짜는 것에 관심이 많습니다.
 </p>
 
