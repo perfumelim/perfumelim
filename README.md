@@ -3,7 +3,9 @@
 <br/>
 <br/>
 <br/>
-<a href="https://www.notion.so/6c5886863bdd4a4da331c3e9ecaea22f"><img src="https://img.shields.io/badge/Click!-B4E2C5"/></a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.notion.so/6c5886863bdd4a4da331c3e9ecaea22f"><img src="https://img.shields.io/badge/Click!-B4E2C5"/></a>
+<br/>
+<br/>
+<br/>  
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=perfumelim&theme=vue)
