@@ -1,12 +1,4 @@
-<p> 
-안녕하세요, 주니어 프론트엔드 개발자 임향수입니다. 
-<br>
-언제나 배움을 멈추지 않는 성장형 개발자가 목표입니다. 
-<br>
-또한 사용자 친화적인 인터페이스와 읽기 쉬운 간결한 코드를 짜는 것에 관심이 많습니다.
-</p>
-
-</p>
+<p>겸손하되 주눅들지 않고, 자신감 있되 교만하지 않은 사람. 그리고 저만의 개성을 잃지 않으면서도 팀과 조화를 이루는 사람을 지향합니다 </p>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=perfumelim&theme=vue)
 
