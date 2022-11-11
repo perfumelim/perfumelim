@@ -3,5 +3,5 @@
 </div>
 <div align="center">
 <h2>임향수 | Perfume Lim</h2>
-<h3>Contact me at perfumelim@gmail.com</h3>
+<h3>Contact me by Email</h3>
 </div>
